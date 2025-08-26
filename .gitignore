@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# python関連
+__pycache__/
+*.pyc
+
+# Mac関連
+.DS_Store
+
+# 仮想環境・秘密情報
+venv/
+.env
+
+# ----
+# もし一部だけ無視したいときは「*」を使わずに個別指定する
